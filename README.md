@@ -1,5 +1,7 @@
 # Dining Philosophers Problem in C++
 This is an implementation of the Dining Philosophers Problem in C++ using *pthread* and *semaphores*.  
+
+**Github** | [Dining Philosophers Problem](https://github.com/hongphuchcmus/DiningPhilosophers.git)
 # How to run
 You can direcly run the `main.exe` file to quickly see the result of the program on Windows.  
 You can, however, build the program using the following command:
